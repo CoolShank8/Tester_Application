@@ -13,7 +13,8 @@ var Questions = [
   'Do you have any past expereince if so list them.',
   'Are you good at giving feedback truthfully and honestly?',
   'How good can you spot bugs in games?',
-  'Why should we pick you over other applicants?'
+  'Why should we pick you over other applicants?',
+  'Are you passionate about roblox?'
 ]
 
 
